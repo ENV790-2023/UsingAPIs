@@ -145,7 +145,5 @@ https://services.nconemap.gov/secure/rest/services/NC1Map_Parcels/FeatureServer/
 
 Web browsers, as we just demonstrated, are well adapted to making REST based requests and also handling their responses. Typically, the responses are in the form of HTML, which the browser interprets to form well structured web pages. Often embedded in this HTML are JavaScript commands, which browsers understand and can run making for some quite fancy elements in a web page. 
 
-Still, the response is just text, and you don't necessarily need a browser to make use of a response, let alone to send a request to a REST based API. Python has a few packages that work well in interacting with REST based APIs.
-
-### Using Python to work with REST based APIs
+Still, the response is just text, and you don't necessarily need a browser to make use of a response, let alone to send a request to a REST based API. Python has a few packages that work well in interacting with REST based APIs. To explore these, we'll move the lesson to Jupyter notebooks. 
 
